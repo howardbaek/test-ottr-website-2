@@ -3,6 +3,8 @@ title: "Editing"
 output: html_document
 ---
 
+Testing
+
 Now that your website is alive and hosted, how do you start customizing it to have your content?
 
 If you already know how to file pull requests, feel free to start making edits as you see fit using some of the structure points we've noted below.
